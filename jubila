@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",DZRH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/108.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",KAPAMILYA
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",MyTV Cebu
+http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
+#EXTINF:0 tvg-id="PTVGlobal.uk" group-title="PH LOCAL & CABLE",PTV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8
+#EXTINF:0 tvg-id="tv5" group-title="PH LOCAL & CABLE",TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",CLTV36
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/134.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",GMA
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",K CHANNEL
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/135.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",CNN PH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/104.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",JEEPNEY TV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
+#EXTINF:0 tvg-id="gtv.il" group-title="PH LOCAL & CABLE",GTV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
+#EXTINF:0 tvg-id="ETCTV.cl" group-title="PH LOCAL & CABLE",ETC
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",IBC 13
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/98.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",TBN Asia
+https://d3cbe0gidjd4k2.cloudfront.net/channel_4/smil:channel_4.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",INC TV
+https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",UNTV
+https://www.untvweb.com/live-stream/untvweb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",Pilipinas HD BeamTV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",ANC
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",Hope PH
+https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",CNN PH
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",ONE PH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/115.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",ONE SPORTS+
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
+#EXTINF:0 tvg-id="Myx.us" group-title="PH LOCAL & CABLE",MYX
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/116.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="PH LOCAL & CABLE",MTV Live HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=870&deviceId=5d14fd1a252d35decbc4080c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",Channel V HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",CINEMO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",PBO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",SARISARI
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/139.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="PH LOCAL & CABLE",Cinemax
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="PH LOCAL & CABLE",HBO
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="PH LOCAL & CABLE",Fox Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="PH LOCAL & CABLE",CINEMA 1
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
+#EXTINF:0 tvg-id="HBOHits.in" group-title="PH LOCAL & CABLE",HBO Hits
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="PH LOCAL & CABLE",HBO Family
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="PH LOCAL & CABLE",HBO Signature
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",Fox Family Movies
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="priveHD.in" group-title="PH LOCAL & CABLE",Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",CinemaWorld
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",W8
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/132.m3u8
+#EXTINF:0 tvg-id="outdoor" group-title="PH LOCAL & CABLE",Outdoor Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
+#EXTINF:0 tvg-id="hgtv" group-title="PH LOCAL & CABLE",HGTV HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
+#EXTINF:0 tvg-id="paramount" group-title="PH LOCAL & CABLE",Paramount Channel
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="PH LOCAL & CABLE",Warner TV
+http://203.154.243.89:11205/
+#EXTINF:0 tvg-id="cartoon" group-title="PH LOCAL & CABLE",Cartoon Network HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:0 tvg-id="disney" group-title="PH LOCAL & CABLE",Disney Channel
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
+#EXTINF:0 tvg-id="disney-xd-blt" group-title="PH LOCAL & CABLE",Disney XD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="PH LOCAL & CABLE",Disney Junior
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:0 tvg-id="nickelod" group-title="PH LOCAL & CABLE",Nick
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
+#EXTINF:0 tvg-id="Animax.de" group-title="PH LOCAL & CABLE",Animax
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#EXTINF:0 tvg-id="Zoomoo.br" group-title="PH LOCAL & CABLE",ZOOMOO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/136.m3u8
+#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="PH LOCAL & CABLE",Baby First
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="PH LOCAL & CABLE",FOX
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",FOX 2
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/117.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",FOX 3
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",SOLAR CHANNEL
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/123.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",PINOY XTREME
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/124.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",SOLAR CHANNEL
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
+#EXTINF:0 tvg-id="NHK.mx" group-title="PH LOCAL & CABLE",NHK
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/133.m3u8
+#EXTINF:0 tvg-id="cnn" group-title="PH LOCAL & CABLE",CNN
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/140.m3u8
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="PH LOCAL & CABLE",Aljazeera
+http://36.37.252.114:888/Apple/OneTV-048
+#EXTINF:0 tvg-id="russia-today" group-title="PH LOCAL & CABLE",RT
+http://36.37.252.114:888/Apple/OneTV-057
+#EXTINF:0 tvg-id="DW.al" group-title="PH LOCAL & CABLE",DW
+http://36.37.252.114:888/Apple/OneTV-053
+#EXTINF:0 tvg-id="france24" group-title="PH LOCAL & CABLE",France 24
+http://36.37.252.114:888/Apple/OneTV-049
+#EXTINF:0 tvg-id="Skynews.gr" group-title="PH LOCAL & CABLE",Sky News
+http://36.37.252.114:888/Apple/OneTV-047
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",KBS
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/131.m3u8
+#EXTINF:0 tvg-id="TVN.pl" group-title="PH LOCAL & CABLE",TVN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:0 tvg-id="KBSWorld.us" group-title="PH LOCAL & CABLE",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",METROSTYLE
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/129.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="PH LOCAL & CABLE",NAT GEO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="PH LOCAL & CABLE",Nat Geo Wild
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="PH LOCAL & CABLE",Discovery Channel
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="PH LOCAL & CABLE",FOX SPORTS
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/119.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",PBA RUSH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",NBA TV Philippines
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
+#EXTINF:0 tvg-id="NBA.blt" group-title="PH LOCAL & CABLE",NBA USA
+http://supersonictv.live:25461/live/903310/034806/40409.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="PH LOCAL & CABLE",Fox Sports 1
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT1-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="PH LOCAL & CABLE",Fox Sports 2
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="PH LOCAL & CABLE",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",Asian Food Network
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="fox-life" group-title="PH LOCAL & CABLE",Fox Life
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",AXN Philippines
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",AXN HD Indonesia
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="arirang-en" group-title="PH LOCAL & CABLE",ARIRANG
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/138.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",Sabong TV
+http://36.37.252.114:888/Apple/OneTV-055
+#EXTINF:0 tvg-id="ext" group-title="PH LOCAL & CABLE",SLBN-KARERA
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/137.m3u8
